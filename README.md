@@ -1,4 +1,4 @@
-# SC1015_B125
+# SC1015_B125 Team 4
 SC1015 B125 Data Science Project
 
 Authors: Luar Shui Yan, Tan Yong Jie, Leonard Ong Kai Jun
